@@ -1,0 +1,23 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# In case you add Node/build tooling later (e.g. for the car mod tracker)
+node_modules/
+npm-debug.log*
+.env
+
+# Temp/backup files
+*.tmp
+*.bak
+*~
